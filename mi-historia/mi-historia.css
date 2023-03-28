@@ -1,0 +1,15 @@
+#mi-historia{
+    background-color: #aacc00;
+}
+#history{
+    font-size: 36px;
+    color: #ffffff;
+    border: 2px solid #d0d0d0;
+    box-shadow: 10px 5px 5px black
+}
+#resumen{
+    font-size: 16px;
+    color: #ffffff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
