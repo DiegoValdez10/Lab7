@@ -1,0 +1,29 @@
+.body_index{
+    background-color: #c6d7b9;
+}
+
+.contenedor {
+    width: 97%;
+    margin: auto;
+}
+
+header {
+    padding: 30 px 0;
+}
+
+header .contenedor{
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-weight: bold;
+    color: #000000;
+    font-size: 40px;
+}
+
+img{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
